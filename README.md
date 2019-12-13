@@ -1,1 +1,1 @@
-# dash-detached-sigs
+# mogwai-detached-sigs
